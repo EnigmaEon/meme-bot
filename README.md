@@ -1,4 +1,4 @@
 # meme-bot
 Telegram bot for meme generation
 
-![image](https://user-images.githubusercontent.com/59992142/216537213-ebc68113-0c31-49c5-879e-bcab2fd64dae.png)
+![image](https://user-images.githubusercontent.com/59992142/216916626-84d93881-c971-40e1-a333-1e4aa57021ed.png)
